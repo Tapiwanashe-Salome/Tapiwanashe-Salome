@@ -7,16 +7,19 @@ Passionate about data cleaning, dashboards, and turning insights into clear busi
 ---
 
 ### Featured Projects
-- **Excel Dashboard – Signature Business Solutions**  
-  Interactive financial dashboard for Wide World Importers built in Excel and Power Query  
+- **Excel Dashboard – Wide World Importers (Assessment Project)**  
+  Developed an interactive **financial dashboard** in Excel and Power Query as part of an assessment for Signature Business Solutions.  
+  - Cleaned and transformed raw data  
+  - Built sales and revenue visualisations  
+  - Automated data refreshes to deliver insights for business decision-making
 
-- **Supervised Learning – Marketing Campaign Prediction**  
-  Built a supervised machine learning model using historical data from a Kaggle dataset to predict term deposit subscriptions.  
-  Applied classification techniques (Logistic Regression and Random Forest).  
-  Used visualisations including confusion matrices, histograms, and bar charts.  
+- **Supervised Learning – Marketing Campaign Prediction (School Project)**  
+  Built a supervised machine learning model using historical marketing data from a Kaggle dataset to predict term deposit subscriptions.  
+  - Applied classification techniques (Logistic Regression and Random Forest)  
+  - Visualised results using confusion matrices, histograms, and bar charts  
+  - Evaluated model performance using accuracy, precision, and recall
 
-- **Evaluating Deep Learning Models on Image Datasets** *(in progress)*  
-
+- **Evaluating Deep Learning Models on Image Datasets** *(in progress)*
 ---
 
 ### 🛠️ Tech & Tools
