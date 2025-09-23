@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Tapiwanashe Salome  
 
-<!--
-**Tapiwanashe-Salome/Tapiwanashe-Salome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Honours student in **Information Systems** at the University of Pretoria  
+Aspiring **Data Analyst** | Building skills in Excel, Power Query, Python, pandas, SQL, and Jupyter notebooks  
+Passionate about data cleaning, dashboards, and turning insights into clear business decisions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- **Excel Dashboard – Signature Business Solutions**  
+  Interactive financial dashboard for Wide World Importers built in Excel and Power Query  
+
+- **Supervised Learning – Marketing Campaign Prediction**  
+  Built a supervised machine learning model using historical data from a Kaggle dataset to predict term deposit subscriptions.  
+  Applied classification techniques (Logistic Regression and Random Forest).  
+  Used visualisations including confusion matrices, histograms, and bar charts.  
+
+- **Evaluating Deep Learning Models on Image Datasets** *(in progress)*  
+
+---
+
+### 🛠️ Tech & Tools
+- Excel, Power Query  
+- Python (pandas, NumPy, Matplotlib, scikit-learn, seaborn)  
+- SQL, Jupyter Notebook  
+- Git & GitHub (currently learning!)  
+
+---
+
+### Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/tapiwanashe-salome-muzvidziwa-967502320)  
+- Email: **tapiwanashesalome@gmail.com**  
+
+---
+
+> I’m currently building my portfolio on GitHub and looking for opportunities in **Data Analysis / Business Intelligence**.
