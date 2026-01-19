@@ -7,13 +7,13 @@ Passionate about using data and machine learning to solve real-world problems—
 ---
 
 ### Featured Projects
-- **Supervised Learning – Marketing Campaign Prediction**  
+**Supervised Learning – Marketing Campaign Prediction**  
  Built a predictive model using historical marketing data to forecast customer subscription behavior.  
-  - Implemented Logistic Regression and Random Forest classifiers
-  - Performed feature engineering and data preprocessing
-  -  Evaluated model performance using accuracy, precision, recall and confusion matrices
+* Implemented Logistic Regression and Random Forest classifiers
+* Performed feature engineering and data preprocessing
+* Evaluated model performance using accuracy, precision, recall and confusion matrices
 
-- **Unsupervised Learning - Evaluating Deep Learning Models on Image Datasets**
+**Unsupervised Learning - Evaluating Deep Learning Models on Image Datasets**
 Developed an anomaly detection system to identify phishing websites using image-based features.
 * Extracted features using MobileNetV2 embeddings
 * Applied PCA for dimensionality reduction
