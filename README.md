@@ -1,32 +1,26 @@
 # Hi there, I'm Tapiwanashe Salome  
 
-Honours student in **Information Systems** at the University of Pretoria  
-Aspiring **Data Analyst** | Building skills in Excel, Power Query, Python, pandas, SQL, and Jupyter notebooks  
-Passionate about data cleaning, dashboards, and turning insights into clear business decisions  
+Honours graduate in **Information Systems** from the University of Pretoria  
+Aspiring **Data Scientist** | Machine Learning| Python | SQL 
+Passionate about using data and machine learning to solve real-world problems—from predictive modeling to anomaly detection. 
 
 ---
 
 ### Featured Projects
-- **Excel Dashboard – Wide World Importers (Assessment Project)**  
-  Developed an interactive **financial dashboard** in Excel and Power Query as part of an assessment for Signature Business Solutions.  
-  - Cleaned and transformed raw data  
-  - Built sales and revenue visualisations  
-  - Automated data refreshes to deliver insights for business decision-making
-
 - **Supervised Learning – Marketing Campaign Prediction (School Project)**  
-  Built a supervised machine learning model using historical marketing data from a Kaggle dataset to predict term deposit subscriptions.  
-  - Applied classification techniques (Logistic Regression and Random Forest)  
-  - Visualised results using confusion matrices, histograms, and bar charts  
-  - Evaluated model performance using accuracy, precision, and recall
+ Built a predictive model using historical marketing data to forecast customer subscription behavior.  
+  - Implemented Logistic Regression and Random Forest classifiers
+  - Performed feature engineering and data preprocessing
+  -  Evaluated model performance using accuracy, precision, recall and confusion matrices
 
 - **Evaluating Deep Learning Models on Image Datasets** *(in progress)*
 ---
 
-### 🛠️ Tech & Tools
-- Excel, Power Query  
-- Python (pandas, NumPy, Matplotlib, scikit-learn, seaborn)  
-- SQL, Jupyter Notebook  
-- Git & GitHub (currently learning!)  
+### Tech & Tools
+**Languages & Libraries**: Python (pandas, NumPy, scikit-learn, Matplotlib, seaborn, TensorFlow)
+**Data & Databases**: SQL, Excel, Power Query
+**Tools**: Jupyter Notebook, Git & GitHub
+**Machine Learning**: Supervised Learning, Unsupervised Learning, Feature Engineering, Model Evaluation  
 
 ---
 
@@ -36,4 +30,4 @@ Passionate about data cleaning, dashboards, and turning insights into clear busi
 
 ---
 
-> I’m currently building my portfolio on GitHub and looking for opportunities in **Data Analysis / Business Intelligence**.
+> Currently building my portfolio and seeking opportunities in Data Analysis, Machine Learning, and Data Science.
