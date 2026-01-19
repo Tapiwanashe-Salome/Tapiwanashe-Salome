@@ -1,13 +1,13 @@
 # Hi there, I'm Tapiwanashe Salome  
 
-Honours graduate in **Information Systems** from the University of Pretoria  
-Aspiring **Data Scientist** | Machine Learning| Python | SQL 
+Honours graduate in Information Systems from the University of Pretoria  
+Aspiring Data Scientist| Machine Learning| Python | SQL 
 Passionate about using data and machine learning to solve real-world problems—from predictive modeling to anomaly detection. 
 
 ---
 
 ### Featured Projects
-- **Supervised Learning – Marketing Campaign Prediction (School Project)**  
+- **Supervised Learning – Marketing Campaign Prediction**  
  Built a predictive model using historical marketing data to forecast customer subscription behavior.  
   - Implemented Logistic Regression and Random Forest classifiers
   - Performed feature engineering and data preprocessing
