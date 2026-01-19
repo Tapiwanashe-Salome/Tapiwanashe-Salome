@@ -1,7 +1,7 @@
 # Hi there, I'm Tapiwanashe Salome  
 
 Honours graduate in Information Systems from the University of Pretoria  
-Aspiring Data Scientist| Machine Learning| Python | SQL 
+Aspiring Data Scientist| Machine Learning| Python | SQL   
 Passionate about using data and machine learning to solve real-world problems—from predictive modeling to anomaly detection. 
 
 ---
