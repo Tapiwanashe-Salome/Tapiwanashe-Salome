@@ -21,9 +21,12 @@ Developed an anomaly detection system to identify phishing websites using image-
 ---
 
 ### Tech & Tools
-**Languages & Libraries**: Python (pandas, NumPy, scikit-learn, Matplotlib, seaborn, TensorFlow)
-**Data & Databases**: SQL, Excel, Power Query
-**Tools**: Jupyter Notebook, Git & GitHub
+**Languages & Libraries**: Python (pandas, NumPy, scikit-learn, Matplotlib, seaborn, TensorFlow)  
+
+**Data & Databases**: SQL, Excel, Power Query  
+
+**Tools**: Jupyter Notebook, Git & GitHub  
+
 **Machine Learning**: Supervised Learning, Unsupervised Learning, Feature Engineering, Model Evaluation  
 
 ---
