@@ -13,7 +13,11 @@ Passionate about using data and machine learning to solve real-world problems—
   - Performed feature engineering and data preprocessing
   -  Evaluated model performance using accuracy, precision, recall and confusion matrices
 
-- **Evaluating Deep Learning Models on Image Datasets** *(in progress)*
+- **Unsupervised Learning - Evaluating Deep Learning Models on Image Datasets**
+Developed an anomaly detection system to identify phishing websites using image-based features.
+-Extracted features using MobileNetV2 embeddings
+-Applied PCA for dimensionality reduction
+-Implemented K-Means clustering and autoencoders for detection
 ---
 
 ### Tech & Tools
