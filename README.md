@@ -1,13 +1,13 @@
 # Hi there, I'm Tapiwanashe Salome  
 ### Honours graduate in Information Systems from the University of Pretoria  
-### Aspiring Data Scientist| Machine Learning| Python | SQL   
-Passionate about using data and machine learning to solve real-world problems—from predictive modeling to anomaly detection. 
+### Data Analysis | SQL | Excel | Python (Analytics)    
+Interested in using data analysis and analytical modelling to understand patterns in real-world datasets and support data-driven decision making. 
 
 ---
 
 ### Featured Projects
 **Supervised Learning – Marketing Campaign Prediction**  
- Built a predictive model using historical marketing data to forecast customer subscription behavior.  
+Built a predictive model using historical marketing data to forecast customer subscription behavior.  
 * Implemented Logistic Regression and Random Forest classifiers
 * Performed feature engineering and data preprocessing
 * Evaluated model performance using accuracy, precision, recall and confusion matrices
@@ -36,4 +36,4 @@ Developed an anomaly detection system to identify phishing websites using image-
 
 ---
 
-> Currently building my portfolio and seeking opportunities in Data Analysis, Machine Learning, and Data Science.
+> Currently building analytical projects and seeking opportunities in Data Analysis and Business Analysis.
