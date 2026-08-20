@@ -31,9 +31,9 @@ Developed an anomaly detection system to identify phishing websites using image-
 ---
 
 ### Let’s Connect
+If you're interested in systems analysis, data and analytical problem-solving to support better business decisions? Let's connect.
 - [LinkedIn](https://www.linkedin.com/in/tapiwanashe-salome-muzvidziwa-967502320)  
 - Email: **tapiwanashesalome@gmail.com**  
 
 ---
 
-> Currently building analytical projects and seeking opportunities in Data Analysis and Business Analysis.
