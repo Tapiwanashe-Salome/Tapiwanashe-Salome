@@ -1,7 +1,7 @@
 # Hi there, I'm Tapiwanashe Salome  
-### Honours graduate in Information Systems from the University of Pretoria  
-### Data Analysis | SQL | Excel | Python (Analytics)    
-Interested in using data analysis and analytical modelling to understand patterns in real-world datasets and support data-driven decision making. 
+### Information Systems Honours Graduate from the University of Pretoria  
+### Systems Analysis | Data Analysis | SQL | Python    
+Interested in using technology, data analysis and analytical problem-solving to understand real-world business challenges and support data-driven decision-making. My technical work includes SQL, Python, statistical analysis and machine learning, with projects covering supervised and unsupervised learning, predictive modelling and anomaly detection. 
 
 ---
 
